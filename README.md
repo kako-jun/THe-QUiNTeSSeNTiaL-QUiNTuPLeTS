@@ -2,6 +2,9 @@
 
 『五等分の花嫁』
 
+<image src=https://user-images.githubusercontent.com/3541096/80665775-59f33680-8ad5-11ea-9e93-3a998e197db7.png width=360 height=480>
+
+
 - 第1巻
 
   - [第1話 「五等分の花嫁」](https://gist.github.com/kako-jun/d8410243a1ff117d7d4a9f332912afc4)

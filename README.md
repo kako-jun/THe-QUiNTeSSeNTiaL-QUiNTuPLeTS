@@ -7,8 +7,8 @@
 
 - 第1巻
 
-  - [第1話 「五等分の花嫁」](https://gist.github.com/kako-jun/d8410243a1ff117d7d4a9f332912afc4)
-  - 第2話 「お宅訪問」
+  - [第1話 「五等分の花嫁」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC1%E8%A9%B1-%E3%80%8C%E4%BA%94%E7%AD%89%E5%88%86%E3%81%AE%E8%8A%B1%E5%AB%81%E3%80%8D)
+  - [第2話 「お宅訪問」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC2%E8%A9%B1-%E3%80%8C%E3%81%8A%E5%AE%85%E8%A8%AA%E5%95%8F%E3%80%8D)
   - 第3話 「屋上の告白」
   - 第4話 「合計100点」
   - 第5話 「問題は山積み」

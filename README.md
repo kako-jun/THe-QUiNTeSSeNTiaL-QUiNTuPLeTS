@@ -9,15 +9,15 @@
 
   - [第1話 「五等分の花嫁」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC1%E8%A9%B1-%E3%80%8C%E4%BA%94%E7%AD%89%E5%88%86%E3%81%AE%E8%8A%B1%E5%AB%81%E3%80%8D)
   - [第2話 「お宅訪問」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC2%E8%A9%B1-%E3%80%8C%E3%81%8A%E5%AE%85%E8%A8%AA%E5%95%8F%E3%80%8D)
-  - 第3話 「屋上の告白」
-  - 第4話 「合計100点」
-  - 第5話 「問題は山積み」
+  - [第3話 「屋上の告白」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC3%E8%A9%B1-%E3%80%8C%E5%B1%8B%E4%B8%8A%E3%81%AE%E5%91%8A%E7%99%BD%E3%80%8D)
+  - [第4話 「合計100点」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC4%E8%A9%B1-%E3%80%8C%E5%90%88%E8%A8%88100%E7%82%B9%E3%80%8D)
+  - [第5話 「問題は山積み」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC5%E8%A9%B1-%E3%80%8C%E5%95%8F%E9%A1%8C%E3%81%AF%E5%B1%B1%E7%A9%8D%E3%81%BF%E3%80%8D)
 
 - 第2巻
 
-  - 第6話 「扉を開けて」
-  - 第7話 「今日はお休み①」
-  - 第8話 「今日はお休み②」
+  - [第6話 「扉を開けて」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC6%E8%A9%B1-%E3%80%8C%E6%89%89%E3%82%92%E9%96%8B%E3%81%91%E3%81%A6%E3%80%8D)
+  - [第7話 「今日はお休み①」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC7%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A0%E3%80%8D)
+  - [第8話 「今日はお休み②」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC8%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A1%E3%80%8D)
   - 第9話 「今日はお休み③」
   - 第10話 「今日はお休み④」
   - 第11話 「今日はお休み⑤」

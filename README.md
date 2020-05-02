@@ -18,16 +18,16 @@
   - [第6話 「扉を開けて」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC6%E8%A9%B1-%E3%80%8C%E6%89%89%E3%82%92%E9%96%8B%E3%81%91%E3%81%A6%E3%80%8D)
   - [第7話 「今日はお休み①」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC7%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A0%E3%80%8D)
   - [第8話 「今日はお休み②」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC8%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A1%E3%80%8D)
-  - 第9話 「今日はお休み③」
-  - 第10話 「今日はお休み④」
-  - 第11話 「今日はお休み⑤」
-  - 第12話 「今日はお休み⑥」
-  - 第13話 「人好きのお人好し」
-  - 第14話 「始まりの写真」
+  - [第9話 「今日はお休み③」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC9%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A2%E3%80%8D)
+  - [第10話 「今日はお休み④」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC10%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A3%E3%80%8D)
+  - [第11話 「今日はお休み⑤」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC11%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A4%E3%80%8D)
+  - [第12話 「今日はお休み⑥」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC12%E8%A9%B1-%E3%80%8C%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%8A%E4%BC%91%E3%81%BF%E2%91%A5%E3%80%8D)
+  - [第13話 「人好きのお人好し」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC13%E8%A9%B1-%E3%80%8C%E4%BA%BA%E5%A5%BD%E3%81%8D%E3%81%AE%E3%81%8A%E4%BA%BA%E5%A5%BD%E3%81%97%E3%80%8D)
+  - [第14話 「始まりの写真」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC14%E8%A9%B1-%E3%80%8C%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%AE%E5%86%99%E7%9C%9F%E3%80%8D)
 
 - 第3巻
 
-  - 第15話 「積み上げたもの」
+  - [第15話 「積み上げたもの」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC15%E8%A9%B1-%E3%80%8C%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%9F%E3%82%82%E3%81%AE%E3%80%8D)
   - 第16話 「いじっぱり」
   - 第17話 「夜の勉強会」
   - 第18話 「嘘つき嘘たろう」

@@ -28,21 +28,21 @@
 - 第3巻
 
   - [第15話 「積み上げたもの」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC15%E8%A9%B1-%E3%80%8C%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92%E3%81%9F%E3%82%82%E3%81%AE%E3%80%8D)
-  - [第16話 「いじっぱり」]()
-  - [第17話 「夜の勉強会」]()
-  - [第18話 「嘘つき嘘たろう」]()
-  - [第19話 「焦りのデスロード」]()
-  - [第20話 「中間試験」]()
-  - [第21話 「おまじない」]()
-  - [第22話 「結びの伝説」]()
-  - [第23話 「6人の林間学校」]()
+  - [第16話 「いじっぱり」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC16%E8%A9%B1-%E3%80%8C%E3%81%84%E3%81%98%E3%81%A3%E3%81%B1%E3%82%8A%E3%80%8D)
+  - [第17話 「夜の勉強会」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC17%E8%A9%B1-%E3%80%8C%E5%A4%9C%E3%81%AE%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%80%8D)
+  - [第18話 「嘘つき嘘たろう」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC18%E8%A9%B1-%E3%80%8C%E5%98%98%E3%81%A4%E3%81%8D%E5%98%98%E3%81%9F%E3%82%8D%E3%81%86%E3%80%8D)
+  - [第19話 「焦りのデスロード」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC19%E8%A9%B1-%E3%80%8C%E7%84%A6%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%89%E3%80%8D)
+  - [第20話 「中間試験」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC20%E8%A9%B1-%E3%80%8C%E4%B8%AD%E9%96%93%E8%A9%A6%E9%A8%93%E3%80%8D)
+  - [第21話 「おまじない」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC21%E8%A9%B1-%E3%80%8C%E3%81%8A%E3%81%BE%E3%81%98%E3%81%AA%E3%81%84%E3%80%8D)
+  - [第22話 「結びの伝説」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC22%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC%E3%80%8D)
+  - [第23話 「6人の林間学校」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC23%E8%A9%B1-%E3%80%8C6%E4%BA%BA%E3%81%AE%E6%9E%97%E9%96%93%E5%AD%A6%E6%A0%A1%E3%80%8D)
   
 - 第4巻
 
-  - [第24話 「結びの伝説 初日」]()
-  - [第25話 「結びの伝説 2日目①」]()
-  - [第26話 「結びの伝説 2日目②」]()
-  - [第27話 「結びの伝説 2日目③」]()
+  - [第24話 「結びの伝説 初日」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC24%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-%E5%88%9D%E6%97%A5%E3%80%8D)
+  - [第25話 「結びの伝説 2日目①」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC25%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A0%E3%80%8D)
+  - [第26話 「結びの伝説 2日目②」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC26%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A1%E3%80%8D)
+  - [第27話 「結びの伝説 2日目③」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC27%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A2%E3%80%8D)
   - [第28話 「結びの伝説 3日目④」]()
   - [第29話 「結びの伝説 3日目①」]()
   - [第30話 「結びの伝説 3日目②」]()
@@ -119,7 +119,7 @@
   - [第83話 「シスターズウォー 六回戦」]()
   - [第84話 「シスターズウォー 七回戦」]()
   - [第85話 「シスターズウォー 七回戦（裏）」]()
-  - 第86話 「シスターズウォー エキシビションマッチ」]()
+  - [第86話 「シスターズウォー エキシビションマッチ」]()
   
 - 第11巻
 

@@ -43,7 +43,7 @@
   - [第25話 「結びの伝説 2日目①」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC25%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A0%E3%80%8D)
   - [第26話 「結びの伝説 2日目②」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC26%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A1%E3%80%8D)
   - [第27話 「結びの伝説 2日目③」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC27%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A2%E3%80%8D)
-  - [第28話 「結びの伝説 3日目④」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC28%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-3%E6%97%A5%E7%9B%AE%E2%91%A3%E3%80%8D)
+  - [第28話 「結びの伝説 2日目④」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC28%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-2%E6%97%A5%E7%9B%AE%E2%91%A3%E3%80%8D)
   - [第29話 「結びの伝説 3日目①」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC29%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-3%E6%97%A5%E7%9B%AE%E2%91%A0%E3%80%8D)
   - [第30話 「結びの伝説 3日目②」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC30%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-3%E6%97%A5%E7%9B%AE%E2%91%A1%E3%80%8D)
   - [第31話 「結びの伝説 3日目③」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC31%E8%A9%B1-%E3%80%8C%E7%B5%90%E3%81%B3%E3%81%AE%E4%BC%9D%E8%AA%AC-3%E6%97%A5%E7%9B%AE%E2%91%A2%E3%80%8D)

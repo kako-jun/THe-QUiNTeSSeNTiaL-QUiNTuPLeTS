@@ -4,6 +4,9 @@
 
 <image src=https://user-images.githubusercontent.com/3541096/80665775-59f33680-8ad5-11ea-9e93-3a998e197db7.png width=360 height=480>
 
+[はじめにお読みください](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB%E3%81%8A%E8%AA%AD%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
+
+----
 
 - 第1巻
 
@@ -168,6 +171,8 @@
   - [第120話 「五年前のとある日」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC120%E8%A9%B1-%E3%80%8C%E4%BA%94%E5%B9%B4%E5%89%8D%E3%81%AE%E3%81%A8%E3%81%82%E3%82%8B%E6%97%A5%E3%80%8D)
   - [第121話 「五分の一の確率」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC121%E8%A9%B1-%E3%80%8C%E4%BA%94%E5%88%86%E3%81%AE%E4%B8%80%E3%81%AE%E7%A2%BA%E7%8E%87%E3%80%8D)
   - [最終話 「五等分の花嫁」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E6%9C%80%E7%B5%82%E8%A9%B1-%E3%80%8C%E4%BA%94%E7%AD%89%E5%88%86%E3%81%AE%E8%8A%B1%E5%AB%81%E3%80%8D)
+
+----
 
 - おまけ
 

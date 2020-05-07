@@ -10,6 +10,8 @@
 
 ⚠️すべてネタバレ注意
 
+- [読み切り版](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E8%AA%AD%E3%81%BF%E5%88%87%E3%82%8A%E7%89%88)
+
 - 第1巻
 
   - [第1話 「五等分の花嫁」](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E7%AC%AC1%E8%A9%B1-%E3%80%8C%E4%BA%94%E7%AD%89%E5%88%86%E3%81%AE%E8%8A%B1%E5%AB%81%E3%80%8D)

@@ -4,9 +4,11 @@
 
 <image src=https://user-images.githubusercontent.com/3541096/80665775-59f33680-8ad5-11ea-9e93-3a998e197db7.png width=360 height=480>
 
-[はじめにお読みください](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB%E3%81%8A%E8%AA%AD%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
+ℹ️[はじめにお読みください](https://github.com/kako-jun/THe-QUiNTeSSeNTiaL-QUiNTuPLeTS/wiki/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB%E3%81%8A%E8%AA%AD%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
 
 ----
+
+⚠️すべてネタバレ注意
 
 - 第1巻
 
